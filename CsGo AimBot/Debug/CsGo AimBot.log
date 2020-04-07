@@ -1,0 +1,8 @@
+﻿  CsGo AimBot.cpp
+C:\Users\Henrijs\Desktop\League of legends scripting\ReadingMemory\CsGo AimBot\CsGo AimBot\CsGo AimBot.cpp(73,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Henrijs\Desktop\League of legends scripting\ReadingMemory\CsGo AimBot\CsGo AimBot\CsGo AimBot.cpp(219,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Henrijs\Desktop\League of legends scripting\ReadingMemory\CsGo AimBot\CsGo AimBot\CsGo AimBot.cpp(222,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Henrijs\Desktop\League of legends scripting\ReadingMemory\CsGo AimBot\CsGo AimBot\CsGo AimBot.cpp(225,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Henrijs\Desktop\League of legends scripting\ReadingMemory\CsGo AimBot\CsGo AimBot\CsGo AimBot.cpp(228,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Henrijs\Desktop\League of legends scripting\ReadingMemory\CsGo AimBot\CsGo AimBot\CsGo AimBot.cpp(236,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CsGo AimBot.vcxproj -> C:\Users\Henrijs\Desktop\League of legends scripting\ReadingMemory\CsGo AimBot\Debug\CsGo AimBot.exe
