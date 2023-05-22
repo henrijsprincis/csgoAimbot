@@ -11,9 +11,11 @@ CSGO aimbot written in C++ (Outdated)
 4. Run Aimbot.exe
 
 ## Dos and Donts
-1. Do not use this in online multiplayer games as you will be banned
+1. Do not use this in online multiplayer games as you will be banned.
 2. Do update the memory addresses in "CsGo AimBot.cpp" to match with the current version of the game.
-3. Enjoy
+3. Enjoy.
+
+Note that the memory addresses have not been updated since April 2020 
 
 ## Implementation Overview
 1. Get the position of the head bone of nearby players using the player manager.
