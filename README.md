@@ -1,7 +1,8 @@
 # CSGOAimbot
 CSGO aimbot written in C++ (Outdated)
 
-![image](https://github.com/henrijsprincis/csgoAimbot/assets/38922533/c5644952-3dcc-4bc4-8a44-394706b6e858)
+![csgogif](https://github.com/henrijsprincis/csgoAimbot/assets/38922533/4786d330-7a7c-4727-8bb1-4cf81e6cec4a)
+
 
 ## Run Instructions
 1. Open CSGo AimBot.sln in visual studio.
